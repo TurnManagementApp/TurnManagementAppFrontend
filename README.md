@@ -40,7 +40,6 @@ Click on the [[link]](https://www.netlify.com) to access the application deploye
 ## Authors
 
 - [@danieltorrez29](https://github.com/danieltorrez29)
-- [@EstebanBarrero](https://github.com/EstebanBarrero)
 
 ## License
 
